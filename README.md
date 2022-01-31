@@ -1,3 +1,3 @@
 # SravanKumarReddy-DSALabSolution
-Part-1: Bracket Balancer
-Part-2: Longest Path in Binary Tree
+Question-1: Bracket Balancer
+Question-2: Longest Path in Binary Tree
